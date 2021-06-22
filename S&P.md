@@ -1,4 +1,97 @@
-## 总共：22/311
+### 2021年 12/115
+@article{aumayr2020bitcoin,
+  title={Bitcoin-Compatible Virtual Channels.},
+  author={Aumayr, Lukas and Ersoy, Oguzhan and Erwig, Andreas and Faust, Sebastian and Host{\'a}kov{\'a}, Kristina and Maffei, Matteo and Moreno-Sanchez, Pedro and Riahi, Siavash},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={554},
+  year={2020}
+}
+
+@inproceedings{stephens2021smartpulse,
+  title={SmartPulse: Automated Checking of Temporal Properties in Smart Contracts},
+  author={Stephens, Jon and Ferles, Kostas and Mariano, Benjamin and Lahiri, Shuvendu and Dillig, Isil},
+  booktitle={IEEE S\&P},
+  year={2021}
+}
+
+@article{nguyen2021sguard,
+  title={sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically},
+  author={Nguyen, Tai D and Pham, Long H and Sun, Jun},
+  journal={arXiv preprint arXiv:2101.01917},
+  year={2021}
+}
+
+@inproceedings{crain2021red,
+  title={Red Belly: a secure, fair and scalable open blockchain},
+  author={Crain, Tyler and Natoli, Christopher and Gramoli, Vincent},
+  booktitle={Proceedings of the 42nd IEEE Symposium on Security and Privacy (S\&P’21)},
+  year={2021}
+}
+
+@article{kondi2019refresh,
+  title={Refresh When You Wake Up: Proactive Threshold Wallets with Offline Devices.},
+  author={Kondi, Yashvanth and Magri, Bernardo and Orlandi, Claudio and Shlomovits, Omer},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2019},
+  pages={1328},
+  year={2019}
+}
+
+@article{zhou2021just,
+  title={On the just-in-time discovery of profit-generating transactions in defi protocols},
+  author={Zhou, Liyi and Qin, Kaihua and Cully, Antoine and Livshits, Benjamin and Gervais, Arthur},
+  journal={arXiv preprint arXiv:2103.02228},
+  year={2021}
+}
+
+@article{kohlweiss2021anonymity,
+  title={On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols.},
+  author={Kohlweiss, Markulf and Madathil, Varun and Nayak, Kartik and Scafuro, Alessandra},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2021},
+  pages={409},
+  year={2021}
+}
+
+@article{tsabary2020mad,
+  title={MAD-HTLC: because HTLC is crazy-cheap to attack},
+  author={Tsabary, Itay and Yechieli, Matan and Manuskin, Alex and Eyal, Ittay},
+  journal={arXiv preprint arXiv:2006.12031},
+  year={2020}
+}
+
+@article{thyagarajan2020lockable,
+  title={Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures.},
+  author={Thyagarajan, Sri Aravinda Krishnan and Malavolta, Giulio},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={1613},
+  year={2020}
+}
+
+@article{zhou2020high,
+  title={High-Frequency Trading on Decentralized On-Chain Exchanges},
+  author={Zhou, Liyi and Qin, Kaihua and Torres, Christof Ferreira and Le, Duc V and Gervais, Arthur},
+  journal={arXiv preprint arXiv:2009.14021},
+  year={2020}
+}
+
+@article{cecchetti2021compositional,
+  title={Compositional Security for Reentrant Applications},
+  author={Cecchetti, Ethan and Yao, Siqiu and Ni, Haobin and Myers, Andrew C},
+  journal={arXiv preprint arXiv:2103.08577},
+  year={2021}
+}
+
+@article{micali2020compact,
+  title={Compact Certificates of Collective Knowledge.},
+  author={Micali, Silvio and Reyzin, Leonid and Vlachos, Georgios and Wahby, Riad S and Zeldovich, Nickolai},
+  journal={IACR Cryptol. ePrint Arch.},
+  volume={2020},
+  pages={1568},
+  year={2020}
+}
 
 ### 2020年 11/104
 @inproceedings{yu2020ohie,
@@ -100,7 +193,7 @@
   organization={IEEE}
 }
 
-### 2019 6/84
+### 2019年 6/84
 @inproceedings{dziembowski2019perun,
   title={Perun: Virtual payment hubs over cryptocurrencies},
   author={Dziembowski, Stefan and Eckey, Lisa and Faust, Sebastian and Malinowski, Daniel},
@@ -155,7 +248,7 @@
   organization={IEEE}
 }
 
-### 2018 2/63
+### 2018年 2/63
 @inproceedings{kokoris2018omniledger,
   title={Omniledger: A secure, scale-out, decentralized ledger via sharding},
   author={Kokoris-Kogias, Eleftherios and Jovanovic, Philipp and Gasser, Linus and Gailly, Nicolas and Syta, Ewa and Ford, Bryan},
@@ -174,7 +267,7 @@
   organization={IEEE}
 }
 
-### 2017 3/60
+### 2017年 3/60
 @inproceedings{apostolaki2017hijacking,
   title={Hijacking bitcoin: Routing attacks on cryptocurrencies},
   author={Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},

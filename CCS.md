@@ -1,4 +1,4 @@
-##
+### 2021年 官网没有
 
 ### 2020年 10/120
 @inproceedings{wust2020ace,
@@ -283,7 +283,7 @@
   year={2018}
 }
 
-### 2017年 10/134
+### 2017年 9/151
 @inproceedings{khalil2017revive,
   title={Revive: Rebalancing off-blockchain payment networks},
   author={Khalil, Rami and Gervais, Arthur},
@@ -331,3 +331,28 @@
   pages={683--699},
   year={2017}
 }
+
+@inproceedings{kwon2017selfish,
+  title={Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin},
+  author={Kwon, Yujin and Kim, Dohyun and Son, Yunmok and Vasserman, Eugene and Kim, Yongdae},
+  booktitle={Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={195--209},
+  year={2017}
+}
+
+@inproceedings{dong2017betrayal,
+  title={Betrayal, distrust, and rationality: Smart counter-collusion contracts for verifiable cloud computing},
+  author={Dong, Changyu and Wang, Yilei and Aldweesh, Amjad and McCorry, Patrick and van Moorsel, Aad},
+  booktitle={Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={211--227},
+  year={2017}
+}
+
+@inproceedings{campanelli2017zero,
+  title={Zero-knowledge contingent payments revisited: Attacks and payments for services},
+  author={Campanelli, Matteo and Gennaro, Rosario and Goldfeder, Steven and Nizzardo, Luca},
+  booktitle={Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={229--243},
+  year={2017}
+}
+
