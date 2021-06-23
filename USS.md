@@ -79,7 +79,7 @@
     month = aug,
 }
 
-### 2020年 9/159
+### 2020年 9/157
 @inproceedings{kalodner2020blocksci,
   title={BlockSci: Design and applications of a blockchain analysis platform},
   author={Kalodner, Harry and M{\"o}ser, Malte and Lee, Kevin and Goldfeder, Steven and Plattner, Martin and Chator, Alishah and Narayanan, Arvind},
