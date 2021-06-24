@@ -1,0 +1,133 @@
+S&P 2019
+1.	Perun: Virtual payment hubs over cryptocurrencies
+2.	Redactable blockchain in the permissionless setting
+3.	Proof-of-stake sidechains
+4.	Ouroboros crypsinous: Privacy-preserving proof-of-stake
+5.	Lay down the common metrics: Evaluating proof-of-work consensus protocols' security
+6.	Xclaim: Trustless, interoperable, cryptocurrency-backed assets
+
+S&P 2020
+1.	VeriSmart: A highly precise safety verifier for Ethereum smart contracts
+2.	Verx: Safety verification of smart contracts
+3.	Flyclient: Super-light clients for cryptocurrencies
+4.	Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability
+5.	A stealthier partitioning attack against bitcoin peer-to-peer network
+6.	Transparent polynomial delegation and its applications to zero knowledge proof
+7.	Replicated state machines without replicated execution
+8.	Sync hotstuff: Simple and practical synchronous state machine replication
+9.	Hydrand: Efficient continuous distributed randomness
+10.	Ohie: Blockchain scaling made simple
+11. Semantic understanding of smart contracts: executable operational semantics of Solidity
+
+S&P 2021
+1.	Bitcoin-Compatible Virtual Channels.
+2.	SmartPulse: Automated Checking of Temporal Properties in Smart Contracts
+3.	sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically
+4.	Red Belly: a secure, fair and scalable open blockchain
+5.	Refresh When You Wake Up: Proactive Threshold Wallets with Offline Devices.
+6.	On the just-in-time discovery of profit-generating transactions in defi protocols
+7.	On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols.
+8.	MAD-HTLC: because HTLC is crazy-cheap to attack
+9.	Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures.
+10.	High-Frequency Trading on Decentralized On-Chain Exchanges
+11.	Compositional Security for Reentrant Applications
+12.	Compact Certificates of Collective Knowledge.
+
+CCS 2018
+1.	The gap game
+2.	A better method to analyze blockchain consistency
+3.	Fairswap: How to fairly exchange digital goods
+4.	General state channel networks
+5.	Rapidchain: Scaling blockchain via full sharding
+6.	Ouroboros genesis: Composable proof-of-stake blockchains with dynamic availability
+7.	BitML: a calculus for Bitcoin smart contracts
+8.	BEAT: Asynchronous BFT made practical
+9.	Minesweeper: An in-depth look into drive-by cryptocurrency mining and its defense
+
+CCS 2019
+1.	WI is not enough: Zero-knowledge contingent (service) payments revisited
+2.	Learning to fuzz from symbolic execution with application to smart contracts
+3.	Hyperservice: Interoperability and programmability across heterogeneous blockchains
+4.	MatRiCT: Efficient, scalable and post-quantum blockchain confidential transactions protocol
+5.	Prism: Deconstructing the blockchain to approach physical limits
+6.	Efficient publicly verifiable 2pc over a blockchain with applications to financially-secure computations
+7.	A formal treatment of deterministic wallets
+8.	Atomic multi-channel updates with constant collateral in bitcoin-compatible payment-channel networks
+9.	Erlay: Efficient transaction relay for bitcoin
+10.	Power adjusting and bribery racing: Novel mining attacks in the bitcoin system
+11.	Flexible byzantine fault tolerance
+12.	Balance: Dynamic adjustment of cryptocurrency deposits
+13.	Tokenscope: Automatically detecting inconsistent behaviors of cryptocurrency tokens in ethereum
+14.	Tesseract: Real-time cryptocurrency exchange using trusted hardware
+15.	Seemless: Secure end-to-end encrypted messaging with less trust
+
+CCS 2020
+1.	ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
+2.	BDoS: Blockchain Denial-of-Service
+3.	eThor: Practical and provably sound static analysis of Ethereum smart contracts
+4.	WI is Almost Enough: Contingent Payment All Over Again
+5.	Dumbo: Faster asynchronous bft protocols
+6.	Tight consistency bounds for bitcoin
+7.	On the Optimality of Optimistic Responsiveness
+8.	Everything is a race and nakamoto always wins
+9.	Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.
+10.	Pointproofs: aggregating proofs for multiple vector commitments
+
+USENIX SECURITY 2019
+1.	BITE: Bitcoin lightweight client privacy using trusted execution
+2.	Fastkitten: Practical smart contracts on bitcoin
+3.	Strongchain: Transparent and collaborative proof-of-work consensus
+4.	Tracing transactions across cryptocurrency ledgers
+5.	The art of the scam: Demystifying honeypots in ethereum smart contracts
+6.	The anatomy of a cryptocurrency pump-and-dump scheme
+7.	Inadvertently making cyber criminals rich: A comprehensive study of cryptojacking campaigns at internet scale
+
+USENIX SECURITY 2020
+1.	BlockSci: Design and applications of a blockchain analysis platform
+2.	Remote side-channel attacks on anonymous transactions
+3.	ETHBMC: A Bounded Model Checker for Smart Contracts
+4.	TXSPECTOR: Uncovering Attacks in Ethereum from Transactions
+5.	An ever-evolving game: Evaluation of real-world attacks and defenses in ethereum ecosystem
+6.	Scaling verifiable computation using efficient set accumulators
+7.	Pixel: Multi-signatures for consensus
+8.	MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to Universal zk-SNARKs
+9.	The ballot is busted before the blockchain: A security analysis of voatz, the first internet voting application used in us federal elections
+
+USENIX SECURITY 2021
+1.	EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts
+2.	Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications
+3.	Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
+4.	Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited
+5.	On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin
+6.	EOSAFE: Security Analysis of EOSIO Smart Contracts
+7.	Blitz: Secure Multi-Hop Payments Without Two-Phase Commits
+8.	SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution
+
+NDSS 2019
+1.	Constructing an Adversary Solver for Equihash.
+2.	Anonymous multi-hop locks for blockchain scalability and interoperability
+3.	Sereum: Protecting existing smart contracts against re-entrancy attacks
+4.	Vault: Fast Bootstrapping for the Algorand Cryptocurrency.
+5.	Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web.
+6.	Statistical privacy for streaming traffic
+7.	Giving state to the stateless: Augmenting trustworthy computation with ledgers
+8.	Yoda: Enabling computationally intensive contracts on blockchains with byzantine and selfish nodes
+9.	Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based.
+10.	A treasury system for cryptocurrencies: Enabling better collaborative intelligence
+11.	SABRE: Protecting bitcoin against routing attacks
+12.	Coconut: Threshold issuance selective disclosure credentials with applications to distributed ledgers
+
+NDSS 2020
+1.	SODA: A generic online detection framework for smart contracts
+2.	Proof of Storage-Time: Efficiently Checking Continuous Data Availability.
+3.	Bobtail: Improved Blockchain Security with Low-Variance Mining.
+4.	Snappy: Fast On-chain Payments with Practical Collaterals
+5.	The attack of the clones against proof-of-authority
+6.	Broken metre: Attacking resource metering in EVM
+
+NDSS 2021
+1.	Randrunner: Distributed randomness from trapdoor vdfs with strong uniqueness
+2.	ProPoS: A Probabilistic Proof-of-Stake Protocol
+3.	Bitcontracts: Supporting Smart Contracts in Legacy Blockchains
+4.	As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service
+5.	SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning
