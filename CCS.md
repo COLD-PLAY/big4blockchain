@@ -202,7 +202,7 @@
   year={2019}
 }
 
-### 2018年 10/134
+### 2018年 9/134
 @inproceedings{tsabary2018gap,
   title={The gap game},
   author={Tsabary, Itay and Eyal, Ittay},
@@ -248,14 +248,6 @@
   author={Badertscher, Christian and Ga{\v{z}}i, Peter and Kiayias, Aggelos and Russell, Alexander and Zikas, Vassilis},
   booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
   pages={913--930},
-  year={2018}
-}
-
-@inproceedings{bartoletti2018bitml,
-  title={BitML: a calculus for Bitcoin smart contracts},
-  author={Bartoletti, Massimo and Zunino, Roberto},
-  booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
-  pages={83--100},
   year={2018}
 }
 
