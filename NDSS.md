@@ -1,4 +1,4 @@
-### 2021年 6/90
+### 2021年 5/90
 @article{schindler2021randrunner,
   title={Randrunner: Distributed randomness from trapdoor vdfs with strong uniqueness},
   author={Schindler, Philipp and Judmayer, Aljosha and Hittmeir, Markus and Stifter, Nicholas and Weippl, Edgar},
@@ -27,12 +27,6 @@
   author={Hou, Charlie and Zhou, Mingxun and Ji, Yan and Daian, Phil and Tramer, Florian and Fanti, Giulia and Juels, Ari},
   journal={arXiv preprint arXiv:1912.01798},
   year={2019}
-}
-
-@article{schindler2021randrunner,
-  title={Randrunner: Distributed randomness from trapdoor vdfs with strong uniqueness},
-  author={Schindler, Philipp and Judmayer, Aljosha and Hittmeir, Markus and Stifter, Nicholas and Weippl, Edgar},
-  year={2021}
 }
 
 ### 2020年 6/88
